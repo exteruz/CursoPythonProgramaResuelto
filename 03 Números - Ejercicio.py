@@ -19,7 +19,7 @@ arma2 = "Arco"
 print("Arma 1: " + arma1)
 print("Daño:", dañoEspada)
 print("Resistencia:", resistenciaEspada)
-print()
+
 print("Arma 2: " + arma2)
 print("Daño:", dañoArco)
 print("Resistencia:", resistenciaArco)
